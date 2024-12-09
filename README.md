@@ -1,4 +1,4 @@
-# **Transcriptomic-profiling-of-Hepatocellular-carcinoma-HCC-dataset-from-TCGA**
+# **Constructing-gene-co-expression-network-for-Head-Neck-Squamous-Cell-Carcinoma-using-WCGNA**
 
 This repository contains the analysis and scripts used for constructing a weighted gene co-expression network for Head-Neck Squamous Cell Carcinoma (HNSC) using data from The Cancer Genome Atlas (TCGA). The project employs the Weighted Gene Co-expression Network Analysis (WGCNA) framework in R to identify gene modules and investigate their potential biological significance.
 
